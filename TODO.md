@@ -1,0 +1,5 @@
+- [x] Actualizar DashboardController para incluir datos de productos más vendidos (ya estaba incluido)
+- [x] Actualizar dashboard.blade.php para agregar métricas de ventas, incluir clientes en KPIs, sección de ventas recientes, y productos más vendidos con gráfico
+- [x] Corregir errores de JavaScript en el script del gráfico (agregado gráfico de barras para productos)
+- [x] Agregar sección de clientes más activos y movimientos recientes
+- [x] Verificar sistema para producción: corregir bugs, optimizar cachés, actualizar documentación
